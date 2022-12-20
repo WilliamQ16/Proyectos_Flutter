@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772774406446",
+    "project_id": "inicio-sesion-2022-a1974",
+    "storage_bucket": "inicio-sesion-2022-a1974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772774406446:android:41133cf0ba54e21b8532bf",
+        "android_client_info": {
+          "package_name": "com.example.login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772774406446-hjhm89pve86j6377m9muo8pdgs913ij2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1LWLmlHbSp5O4tZIvNO_sp9q050Dz098"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772774406446-hjhm89pve86j6377m9muo8pdgs913ij2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
