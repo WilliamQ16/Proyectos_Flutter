@@ -92,3 +92,6 @@ trabajo, creamos un proyecto para nuestra APP; configuramos el método de autent
 creamos la base de datos.
 
 ![image](https://user-images.githubusercontent.com/110683744/208893300-72552659-83aa-4574-9c18-434a502a1ac3.png)
+
+![image](https://user-images.githubusercontent.com/110683744/208893517-8b5333e1-1ade-4d27-a618-6a19e3f6bca3.png)
+
