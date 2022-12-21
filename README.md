@@ -130,3 +130,5 @@ electrónico/contraseña
 una variedad de herramientas para administrar, implementar y visualizar en proyectos de Firebase.
 
 ![image](https://user-images.githubusercontent.com/110683744/208896143-3c015c1b-ab39-4331-b0a5-ab861921d95e.png)
+
+- Una copia del .exe del Firebase_CLI se guarda en la carpeta downloads y la otra se guarda en la carpeta de los proyectos flutter pero se renombra como "firebase.exe".
