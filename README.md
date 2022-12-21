@@ -121,3 +121,5 @@ electrónico/contraseña
 - Seleccione Comenzar en modo de prueba
 
 ![image](https://user-images.githubusercontent.com/110683744/208895557-1681443f-0631-4c4d-b2b0-64e79dac123f.png)
+
+- No cambie el nodo donde se va a crear la base de datos en Cloud firestore
