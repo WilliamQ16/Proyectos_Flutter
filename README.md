@@ -171,7 +171,7 @@ actualizada.
 
 ### Muestras de algunos proyectos que se pueden realizar con flutter
 
-#### Galería de imagenes con Drawer
+#### Galería de imagenes con drawer
 
 ![image](https://github.com/WilliamQ16/Proyectos_Flutter/blob/main/Readme/Imagen3.png)
 
