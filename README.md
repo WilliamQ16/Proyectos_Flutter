@@ -123,3 +123,6 @@ electrónico/contraseña
 ![image](https://user-images.githubusercontent.com/110683744/208895557-1681443f-0631-4c4d-b2b0-64e79dac123f.png)
 
 - No cambie el nodo donde se va a crear la base de datos en Cloud firestore
+
+![image](https://user-images.githubusercontent.com/110683744/208895800-fce946c3-83cb-4f4d-a09c-dedfd592cf8a.png)
+
