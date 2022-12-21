@@ -102,3 +102,5 @@ Authentication
 
 ![image](https://user-images.githubusercontent.com/110683744/208893940-b979096d-2181-4179-859c-8dee1172ccbe.png)
 
+- Seleccionamos autenticación mediante correo
+electrónico/contraseña
