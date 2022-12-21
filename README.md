@@ -134,3 +134,33 @@ una variedad de herramientas para administrar, implementar y visualizar en proye
 - Una copia del .exe del Firebase_CLI se guarda en la carpeta downloads y la otra se guarda en la carpeta de los proyectos flutter pero se renombra como "firebase.exe".
 
 ![image](https://user-images.githubusercontent.com/110683744/208896728-bca01bd5-6a61-4c45-8c32-333bd6962f76.png)
+
+- Luego se abre la copia de Firebase_Cli que esta en la carpeta downloads, se valida el usuario gmail con el que se abrió la cuenta firebase, después de ello se ejecutan los siguientes comandos:
+
+cd
+
+cd dirección del proyecto Flutter donde se integrara Firebase
+
+cd dir
+
+flutter pub add firebase_core   // Firebase_core, es el código común requerido para todos los complementos de Firebase Flutter.
+
+flutter pub add firebase_auth // Firebase_auth, permite la integración con la capacidad de autenticación de
+Firebase.
+
+flutter pub add cloud_firestore // cloud_firestore, permite el acceso al almacenamiento de datos de Cloud
+Firestore.
+
+flutter pub add provider // provider, habilitara la separación de la lógica empresarial de la lógica de visualización.
+
+dart pub global actívate flutterfire_cli // Flutterfire es una función de Firebase CLI, que
+permite configurar una aplicación de Flutter de manera
+que quede listo para comenzar a usar los servicios de
+Firebase.
+
+flutterfire configure // El comando permite asegurar que la configuración de Firebase de tu app de Flutter esta
+actualizada.
+
+- Recomendación: antes de realizar estos procedimientos suspender el antivirus.
+
+
