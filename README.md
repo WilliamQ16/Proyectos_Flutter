@@ -48,3 +48,17 @@ Dart es un lenguaje de programación diseñado para el desarrollo de clientes, c
 ## Flutter
 
 Flutter es un SDK de código fuente abierto de desarrollo de aplicaciones móviles creado por Google. Suele usarse para desarrollar interfaces de usuario para aplicaciones en Android, iOS y Web así como método primario para crear aplicaciones para Google Fuchsia. (Fuente Wikipedia)
+
+### Pasos para instalar Flutter
+
+Link de descarga del SDK Flutter, Android Studio y Visual Studio Code:
+
+https://docs.flutter.dev/get-started/install
+
+https://developer.android.com/studio?hl=es-419&gclid=EAIaIQobChMIy-ydtsWK_AIViNSGCh2VzweIEAAYASAAEgKuV_D_BwE&gclsrc=aw.ds
+
+https://code.visualstudio.com/download
+
+Tutorial paso a paso de instalación:
+
+https://www.youtube.com/watch?v=NF6kQJY5kL4
