@@ -108,3 +108,6 @@ electrónico/contraseña
 ![image](https://user-images.githubusercontent.com/110683744/208894194-9d1e1a81-f5c2-41e9-83b4-16d3f091ea5e.png)
 
 - Habilitar Correo electrónico/contraseña
+
+![image](https://user-images.githubusercontent.com/110683744/208894563-02b6b9b0-2290-4d85-9f7b-a67720b47d28.png)
+
