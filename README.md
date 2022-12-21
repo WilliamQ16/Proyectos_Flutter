@@ -117,3 +117,5 @@ electrónico/contraseña
 ![image](https://user-images.githubusercontent.com/110683744/208895196-ef5989cf-c195-4b36-b0b2-6556106ab2e2.png)
 
 ![image](https://user-images.githubusercontent.com/110683744/208895324-7aeeed8b-3779-4ee7-b48b-5018ad555053.png)
+
+- Seleccione Comenzar en modo de prueba
