@@ -171,9 +171,13 @@ actualizada.
 
 ### Muestras de algunos proyectos que se pueden realizar con flutter
 
+#### Galería de imagenes con Drawer
+
 ![image](https://github.com/WilliamQ16/Proyectos_Flutter/blob/main/Readme/Imagen3.png)
 
 ![image](https://github.com/WilliamQ16/Proyectos_Flutter/blob/main/Readme/Imagen4.png)
+
+#### Lista de Productos
 
 ![image](https://github.com/WilliamQ16/Proyectos_Flutter/blob/main/Readme/Imagen6.png)
 
@@ -181,7 +185,11 @@ actualizada.
 
 ![image](https://github.com/WilliamQ16/Proyectos_Flutter/blob/main/Readme/Imagen8.png)
 
+#### Maquetado de Elementos
+
 ![image](https://github.com/WilliamQ16/Proyectos_Flutter/blob/main/Readme/Imagen9.png)
+
+#### Carrito de Compras
 
 ![image](https://github.com/WilliamQ16/Proyectos_Flutter/blob/main/Readme/Imagen10.png)
 
