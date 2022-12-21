@@ -113,3 +113,5 @@ electrónico/contraseña
 ![image](https://user-images.githubusercontent.com/110683744/208894782-469233b5-1108-4f32-a91a-0bf7582e5ae0.png)
 
 - En la opción de Compilación, damos clic en Firestore Database
+
+![image](https://user-images.githubusercontent.com/110683744/208895196-ef5989cf-c195-4b36-b0b2-6556106ab2e2.png)
