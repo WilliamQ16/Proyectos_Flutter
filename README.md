@@ -51,7 +51,7 @@ Flutter es un SDK de código fuente abierto de desarrollo de aplicaciones móvil
 
 ### Pasos para instalar Flutter
 
-Link de descarga del SDK Flutter, Android Studio y Visual Studio Code:
+Links de descarga del SDK Flutter, Android Studio y Visual Studio Code:
 
 https://docs.flutter.dev/get-started/install
 
@@ -62,3 +62,10 @@ https://code.visualstudio.com/download
 Tutorial paso a paso de instalación:
 
 https://www.youtube.com/watch?v=NF6kQJY5kL4
+
+### Ejemplo de proyecto basico con Flutter y su personalización
+
+![image](https://github.com/WilliamQ16/Proyectos_Flutter/blob/main/Readme/Imagen1.png)
+
+![image](https://github.com/WilliamQ16/Proyectos_Flutter/blob/main/Readme/Imagen2.png)
+
