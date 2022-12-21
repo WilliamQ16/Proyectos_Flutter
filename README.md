@@ -72,3 +72,5 @@ https://www.youtube.com/watch?v=NF6kQJY5kL4
 ### Instalación de paquetes en Flutter
 
 Abre el fichero pubspec.yaml localizado dentro de la carpeta de la app, y añade el nombre del paquete con su número de versión: debajo de dependencies.
+
+![image](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Screenshots_2020/Android-Studio-adding-a-language-package-in-the-Flutter-app.png)
