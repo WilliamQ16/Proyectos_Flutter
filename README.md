@@ -95,8 +95,7 @@ creamos la base de datos.
 
 ![image](https://user-images.githubusercontent.com/110683744/208893517-8b5333e1-1ade-4d27-a618-6a19e3f6bca3.png)
 
-- En la opción de Compilación, damos clic en
-Authentication
+- En la opción de Compilación, damos clic en Authentication
 
 ![image](https://user-images.githubusercontent.com/110683744/208893761-93aba33e-7bec-4550-9178-8a8cdc8fa0d5.png)
 
@@ -113,5 +112,4 @@ electrónico/contraseña
 
 ![image](https://user-images.githubusercontent.com/110683744/208894782-469233b5-1108-4f32-a91a-0bf7582e5ae0.png)
 
-- En la opción de Compilación, damos clic
-en Firestore Database
+- En la opción de Compilación, damos clic en Firestore Database
