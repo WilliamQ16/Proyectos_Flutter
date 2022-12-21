@@ -32,3 +32,9 @@ void main() {
    } 
    print(factorial); 
 }
+
+#### for in
+
+for (variablename in object){  
+   statement or block to execute  
+}
