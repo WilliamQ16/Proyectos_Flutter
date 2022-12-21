@@ -95,3 +95,5 @@ creamos la base de datos.
 
 ![image](https://user-images.githubusercontent.com/110683744/208893517-8b5333e1-1ade-4d27-a618-6a19e3f6bca3.png)
 
+- En la opción de Compilación, damos clic en
+Authentication
