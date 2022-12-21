@@ -126,3 +126,5 @@ electrónico/contraseña
 
 ![image](https://user-images.githubusercontent.com/110683744/208895800-fce946c3-83cb-4f4d-a09c-dedfd592cf8a.png)
 
+- En este punto, es importante descargar la consola Firebase_CLI que proporciona
+una variedad de herramientas para administrar, implementar y visualizar en proyectos de Firebase.
