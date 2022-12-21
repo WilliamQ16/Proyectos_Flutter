@@ -1,4 +1,11 @@
 # Proyectos_Flutter
+## Entidad: Centro de Biotecnología Agropecuaria
+## Ficha: 2558346
+## Programa: Análisis y Desarrollo de Software - A.D.S.O
+## Autor: William David Garzón Quevedo
+## Fecha Creación: 18 de Octubre - 18 de Noviembre del 2022
+## Versión: 1.0.0
+
 ## Dart
 
 Dart es un lenguaje de programación diseñado para el desarrollo de clientes, como aplicaciones web y móviles. Está desarrollado por Google y también se puede utilizar para crear aplicaciones de servidor y de escritorio. (Fuente Wikipedia)
