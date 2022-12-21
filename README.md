@@ -132,3 +132,5 @@ una variedad de herramientas para administrar, implementar y visualizar en proye
 ![image](https://user-images.githubusercontent.com/110683744/208896143-3c015c1b-ab39-4331-b0a5-ab861921d95e.png)
 
 - Una copia del .exe del Firebase_CLI se guarda en la carpeta downloads y la otra se guarda en la carpeta de los proyectos flutter pero se renombra como "firebase.exe".
+
+![image](https://user-images.githubusercontent.com/110683744/208896728-bca01bd5-6a61-4c45-8c32-333bd6962f76.png)
