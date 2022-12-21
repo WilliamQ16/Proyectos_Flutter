@@ -69,3 +69,6 @@ https://www.youtube.com/watch?v=NF6kQJY5kL4
 
 ![image](https://github.com/WilliamQ16/Proyectos_Flutter/blob/main/Readme/Imagen2.png)
 
+### Instalación de paquetes en Flutter
+
+Abre el fichero pubspec.yaml localizado dentro de la carpeta de la app, y añade el nombre del paquete con su número de versión: debajo de dependencies.
