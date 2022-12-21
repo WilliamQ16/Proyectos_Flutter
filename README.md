@@ -38,3 +38,11 @@ void main() {
 for (variablename in object){  
    statement or block to execute  
 }
+
+#### while
+
+while (expression) {
+   Statement(s) to be executed if expression is true  
+}
+
+#### do while
