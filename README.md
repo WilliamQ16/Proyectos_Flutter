@@ -84,3 +84,11 @@ Abre el fichero pubspec.yaml localizado dentro de la carpeta de la app, y añade
 Firebase de Google es una plataforma en la nube para el desarrollo de aplicaciones web y móvil. Está disponible para distintas plataformas (iOS, Android y web), con lo que es más rápido trabajar en el desarrollo.
 
 Aunque fue creada en 2011 pasó a ser parte de Google en 2014, comenzando como una base de datos en tiempo real. Sin embargo, se añadieron más y más funciones que, en parte, permitieron agrupar los SDK de productos de Google con distintos fines, facilitando su uso. (Fuente: DIGITAL55)
+
+#### Configuración 
+
+- Al ingresar a la consola de firebase - https://firebase.google.com/ - con nuestra cuenta de
+trabajo, creamos un proyecto para nuestra APP; configuramos el método de autenticación y
+creamos la base de datos.
+
+
